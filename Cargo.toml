@@ -10,6 +10,7 @@ readme = "README.md"
 license = "GPL-3.0"
 edition = "2024"
 rust-version = "1.85"
+include = ["README.md", "LICENSE", "src/**/*.rs"]
 
 [dependencies]
 base64 = "0.22.0"
